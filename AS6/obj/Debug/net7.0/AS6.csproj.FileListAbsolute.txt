@@ -1,0 +1,15 @@
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\AS6.csproj.AssemblyReference.cache
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\AS6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\AS6.AssemblyInfoInputs.cache
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\AS6.AssemblyInfo.cs
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\AS6.csproj.CoreCompileInputs.cache
+C:\Users\Kembrige\source\repos\AS6\AS6\bin\Debug\net7.0\AS6.exe
+C:\Users\Kembrige\source\repos\AS6\AS6\bin\Debug\net7.0\AS6.deps.json
+C:\Users\Kembrige\source\repos\AS6\AS6\bin\Debug\net7.0\AS6.runtimeconfig.json
+C:\Users\Kembrige\source\repos\AS6\AS6\bin\Debug\net7.0\AS6.dll
+C:\Users\Kembrige\source\repos\AS6\AS6\bin\Debug\net7.0\AS6.pdb
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\AS6.dll
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\refint\AS6.dll
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\AS6.pdb
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\AS6.genruntimeconfig.cache
+C:\Users\Kembrige\source\repos\AS6\AS6\obj\Debug\net7.0\ref\AS6.dll
